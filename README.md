@@ -9,6 +9,10 @@
 2. [Deployment](#deployment)
 3. [Configuração](#configuração)
 
+    3.1. [Microcontrollers](#microcontrollers)
+
+    3.2. [Mobile](#mobile)
+
 ### Apresentação ###
 
 O projeto consiste na criação de um espaço de memória para a Academia Politécnica do Porto onde os visitantes poderão viajar no tempo através de uma experiência inovadora que irá contar diferentes histórias acerca do edifício da Reitoria e dos seus arredores ao longo dos anos. É um produto maioritariamente constituído por duas grandes componentes, *software* e multimédia que se interligam e que se complementam, garantindo aos utilizadores uma experiência única.
