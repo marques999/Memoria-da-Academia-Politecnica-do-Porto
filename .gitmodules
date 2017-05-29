@@ -1,0 +1,12 @@
+[submodule "Memoria-da-Academia-Politecnica-do-Porto-Back-End"]
+	path = Memoria-da-Academia-Politecnica-do-Porto-Back-End
+	url = https://github.com/LuisMDuarte95/Memoria-da-Academia-Politecnica-do-Porto-Back-End
+[submodule "Memoria-da-Academia-Politecnica-do-Porto-Microcontrollers"]
+	path = Memoria-da-Academia-Politecnica-do-Porto-Microcontrollers
+	url = https://github.com/LuisMDuarte95/Memoria-da-Academia-Politecnica-do-Porto-Microcontrollers
+[submodule "Memoria-da-Academia-Politecnica-do-Porto-Mobile"]
+	path = Memoria-da-Academia-Politecnica-do-Porto-Mobile
+	url = https://github.com/LuisMDuarte95/Memoria-da-Academia-Politecnica-do-Porto-Mobile
+[submodule "Memoria-da-Academia-Politecnica-do-Porto-Website"]
+	path = Memoria-da-Academia-Politecnica-do-Porto-Website
+	url = https://github.com/LuisMDuarte95/Memoria-da-Academia-Politecnica-do-Porto-Website
